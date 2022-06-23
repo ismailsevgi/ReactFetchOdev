@@ -1,0 +1,15 @@
+{
+  "name": "reactfetchodev",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node script"
+  },
+  "author": "ismail",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
